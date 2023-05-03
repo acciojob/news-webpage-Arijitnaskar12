@@ -7,11 +7,12 @@ body{
 	display:flex;
 	justify-content:center;
 	align-items:center;
+	text-align:center;
     background-color:#011e29;
     color:white;
    height:50px;
 }
-.item1{
+.latest-news-section{
 	width:200px;
 	background-color:white;
 	height:125px;
@@ -19,7 +20,7 @@ body{
 	margin:10px;
 	
 }
-.item2{
+.main-article{
 	text-align:center;
 	width:300px;
 	background-color:white;
@@ -28,16 +29,16 @@ body{
 	border-radius:10px;
 	
 }
-.item3{
+.pictorial-news-section{
 	width:300px;
 	background-color:white;
 	margin:6px;
 	border-radius:10px;
 }
-.item3 h3{
+.pictorial-news-section h3{
 	text-align:center;
 }
-.item3 img{
+.pictorial-news-section img{
 	width:200px;
 	margin-left:50px;
 }
